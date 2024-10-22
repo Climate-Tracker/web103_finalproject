@@ -4,20 +4,18 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 
 ## List of Pages
 
-[👉🏾👉🏾👉🏾 List the pages you expect to have in your app, with a ⭐ next to pages you have wireframed]
+⭐ Main Page
+⭐ My Regions Page
+⭐ Page for each region
 
 ## Wireframe 1: Main Page
-[Climate Change Tracker.pdf](https://github.com/user-attachments/files/17482723/Climate.Change.Tracker.pdf)
+<img width="462" alt="Screenshot 2024-10-22 at 3 27 17 PM" src="https://github.com/user-attachments/assets/a6ecedab-80ef-4c1e-9a68-f7b26f2d72a2">
 
-[👉🏾👉🏾👉🏾 include wireframe 1]
 
 ## Wireframe 2: My Regions
+<img width="459" alt="Screenshot 2024-10-22 at 3 27 27 PM" src="https://github.com/user-attachments/assets/edd57041-c340-41dd-84b8-0ee453988dfe">
 
-[👉🏾👉🏾👉🏾 include wireframe 2]![_scaffold](https://github.com/user-attachments/assets/7d74353b-d104-4a5e-a28f-ef13381236c9)
 
-
-## Wireframe 3: Region
-
-[👉🏾👉🏾👉🏾 include wireframe 3]
-
+## Wireframe 3: Page for each region
+<img width="457" alt="Screenshot 2024-10-22 at 3 27 42 PM" src="https://github.com/user-attachments/assets/4b6b0e2e-5377-4ce0-822e-4187355e9c28">
 
