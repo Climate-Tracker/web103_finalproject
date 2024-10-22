@@ -13,7 +13,8 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 
 ## Wireframe 2: My Regions
 
-[👉🏾👉🏾👉🏾 include wireframe 2]
+[👉🏾👉🏾👉🏾 include wireframe 2]![_scaffold](https://github.com/user-attachments/assets/7d74353b-d104-4a5e-a28f-ef13381236c9)
+
 
 ## Wireframe 3: Region
 
