@@ -20,12 +20,12 @@ This unit, be sure to complete all tasks listed below. To complete a task, place
 
 ### 1. What went well during this unit?
 
-[👉🏾👉🏾👉🏾 your answer here]
+Coming up with our idea and fleshing it out went well. 
 
 ### 2. What were some challenges your group faced in this unit?
 
-[👉🏾👉🏾👉🏾 your answer here]
+Some challenges we faced were communication. Since it was the first time we had to work together outside of class, we had trouble starting communication. 
 
 ### 3. What additional support will you need in upcoming units as you continue to work on your final project?
 
-[👉🏾👉🏾👉🏾 your answer here]
+We would like some feedback from Codepath as to whether our project idea fulfills the requirements. Furthermore, we would like any advice on our user stories and features. 
