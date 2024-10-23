@@ -26,21 +26,21 @@ Backend:
 
 ## Features
 
-### [Name of Feature 1]
+### Globe
 
-[short description goes here]
-
-[gif goes here]
-
-### [Name of Feature 2]
-
-[short description goes here]
+There is an interactive globe on the main page. Users can explore the globe by spinning it in either direction. They can also select a part of the globe, and the city, state, or country selected will be idicated.
 
 [gif goes here]
 
-### [Name of Feature 3]
+### Your Regions
 
-[short description goes here]
+After clicking on a place on the globe, users are able to add that region to a saved list. The list of saved regions show up as a drop down in the main page when "Your Regions" is clicked. 
+
+[gif goes here]
+
+### Information about each region
+
+Information about each region, mainly the change in CO2 levels, Air Quality Index, Sea Levels, Temperature, and Deforestation of the region is showed as a graph over time. The user can select one of the mentioned indicies at a time and see the graph associated with that index. When an index is clicked, a short paragraph explaining what that index measures, basic informaiton about it, and where this data was taken from appears. 
 
 [gif goes here]
 
