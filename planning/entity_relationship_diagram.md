@@ -22,7 +22,8 @@ Deforestation for All Regions
 
 ## Add the Entity Relationship Diagram
 
-[👉🏾👉🏾👉🏾 Include an image or images of the diagram below. You may also wish to use the following markdown syntax to outline each table, as per your preference.]
+<img width="833" alt="Screenshot 2024-10-30 at 5 31 58 PM" src="https://github.com/user-attachments/assets/79b90aa7-6370-43ad-ab9d-7c57dcdc4ddd">
+
 
 All Regions
 | Column Name | Type | Description |
