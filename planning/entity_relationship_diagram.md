@@ -83,3 +83,5 @@ Deforestation for All Regions
 | measure_id | integer | id for Deforestation|
 | Deforestation | float | Deforestation for that year |
 | year | integer | Year of the Deforestation measurement |
+
+Created on this Figma Page: https://www.figma.com/design/bHAUK08fDQkJnEXCIHYuRF/Climate-Change-Tracker?node-id=0-1&node-type=canvas&t=hmj87uCVJVG3zDFB-0
