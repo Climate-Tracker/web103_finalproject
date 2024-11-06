@@ -1,0 +1,76 @@
+/* Main container styles */
+.main-container {
+    min-height: 100vh;
+    background: linear-gradient(to right, #E6F7FF, #F1E6FF); /* Soft gradient background */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+}
+
+/* Content container for centering the content */
+.content-container {
+    max-width: 1000px;
+    text-align: center;
+    width: 100%;
+}
+
+/* Title of the page */
+.title {
+    font-size: 3rem;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 2rem;
+}
+
+/* Center the globe on the page */
+.globe {
+    margin-bottom: 2rem; /* Adds space below the globe */
+}
+
+/* Styling for the regions section */
+.regions-list {
+    margin-top: 2rem;
+    padding-top: 1rem;
+    border-top: 2px solid #D1D1D1;
+}
+
+/* Title for the regions list */
+.regions-title {
+    font-size: 2rem;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 1rem;
+}
+
+/* Styling for the unordered list of regions */
+.regions-ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+/* Styling for each region item */
+.region-item {
+    font-size: 1.1rem;
+    color: #555;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid #D1D1D1;
+}
+
+/* Highlight region name */
+.region-name {
+    font-weight: 600;
+    color: #007BFF;
+}
+
+/* Styling for coordinates */
+.region-coordinates {
+    color: #777;
+}
+
+/* Styling for the message when no regions are selected */
+.no-region {
+    color: #888;
+    font-style: italic;
+}
