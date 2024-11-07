@@ -20,9 +20,9 @@ The inspiration for this app came from the developers care for the planet and it
 
 ## Tech Stack
 
-Frontend:
+Frontend: React
 
-Backend:
+Backend: Express, Node.js, PostgreSQL
 
 ## Features
 
