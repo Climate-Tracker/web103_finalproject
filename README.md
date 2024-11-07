@@ -28,15 +28,15 @@ Backend: Express, Node.js, PostgreSQL
 
 ### Globe
 
-There is an interactive globe on the main page. Users can explore the globe by spinning it in either direction. They can also select a part of the globe, and the city, state, or country selected will be idicated.
+✅ There is an interactive globe on the main page. Users can explore the globe by spinning it in either direction. They can also select a part of the globe, and the city, state, or country selected will be idicated.
 
-[gif goes here]
+<img src="project-walkthrough.gif"/>
 
 ### Your Regions
 
-After clicking on a place on the globe, users are able to add that region to a saved list. The list of saved regions show up as a drop down in the main page when "Your Regions" is clicked. 
+✅ After clicking on a place on the globe, users are able to add that region to a saved list. The list of saved regions show up as a drop down in the main page when "Your Regions" is clicked. 
 
-[gif goes here]
+<img src="project-walkthrough.gif"/>
 
 ### Information about each region
 
