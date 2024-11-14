@@ -15,15 +15,15 @@ This unit, be sure to complete all tasks listed below. To complete a task, place
 
 ### 1. What went well during this unit?
 
-[👉🏾👉🏾👉🏾 your answer here]
+The implementation went more smoothly than we expected.
 
 ### 2. What were some challenges your group faced in this unit?
 
-[👉🏾👉🏾👉🏾 your answer here]
+We were both really busy so it was hard to find a time to work together. Additionally, there were a lot of resources for climate data and it was a little overwhelming for us.
 
 ### Did you finish all of your tasks in your sprint plan for this week? If you did not finish all of the planned tasks, how would you prioritize the remaining tasks on your list?
 
-[👉🏾👉🏾👉🏾 your answer here]
+We finished all of our tasks in our sprint plan for this week.
 
 ### Which features and user stories would you consider “at risk”? How will you change your plan if those items remain “at risk”?
 
@@ -31,4 +31,4 @@ This unit, be sure to complete all tasks listed below. To complete a task, place
 
 ### 5. What additional support will you need in upcoming units as you continue to work on your final project?
 
-[👉🏾👉🏾👉🏾 your answer here]
+We want to ask if there is any API that display climate data that you recommend.
