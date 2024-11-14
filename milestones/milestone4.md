@@ -27,7 +27,7 @@ We finished all of our tasks in our sprint plan for this week.
 
 ### Which features and user stories would you consider “at risk”? How will you change your plan if those items remain “at risk”?
 
-[👉🏾👉🏾👉🏾 your answer here]
+We don't have and features and user stories we consider "at risk" right now. Everything is going according to plan.
 
 ### 5. What additional support will you need in upcoming units as you continue to work on your final project?
 
