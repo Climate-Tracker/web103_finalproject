@@ -38,11 +38,7 @@ Backend: Express, Node.js, PostgreSQL
 
 <img src="project-walkthrough.gif"/>
 
-### Information about each region
 
-Information about each region, mainly the change in CO2 levels, Air Quality Index, Sea Levels, Temperature, and Deforestation of the region is showed as a graph over time. The user can select one of the mentioned indicies at a time and see the graph associated with that index. When an index is clicked, a short paragraph explaining what that index measures, basic informaiton about it, and where this data was taken from appears. 
-
-[gif goes here]
 
 ### [ADDITIONAL FEATURES GO HERE - ADD ALL FEATURES HERE IN THE FORMAT ABOVE; you will check these off and add gifs as you complete them]
 
